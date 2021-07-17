@@ -1,6 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Сделать диаграмму иерархии компонентов.
+# Полноценный readme как тут https://github.com/YuliaOvchinnikova
+
+
+
+
+
+
+
+
 
 In the project directory, you can run:
 
